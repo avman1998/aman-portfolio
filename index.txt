@@ -139,21 +139,21 @@ Portfolio
 All
 Web design
 Applications
-Web development
+HTML and CSS
 
 Select category
 All
 Web design
 Applications
-Web development
+HTML and CSS
 
 alt = finance
 Finance
-Web development
+HTML and CSS
 
 alt = orizon
 Orizon
-Web development
+HTML and CSS
 
 alt = fundo
 Fundo
@@ -173,7 +173,7 @@ Web design
 
 alt = summary
 Summary
-Web development
+HTML and CSS
 
 alt = task manager
 Task Manager
